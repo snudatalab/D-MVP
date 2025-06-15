@@ -4,6 +4,10 @@ This is the code repository for Accurate Graph-based Multi-Positive Unlabeled Le
 This includes the implementation of D-MVP (**D**istangled **M**ulti-**V**iew Feature **P**ropagation), our novel
 approach for graph-based MPU learning.
 
+<p align="center">
+  <img width="90%" src="https://github.com/user-attachments/assets/5564f7bb-2787-4d12-9056-bed717ca96b7">
+</p>
+
 ## Abstract
 
 How can we classify graph-structured data with labels of only positive classes?
