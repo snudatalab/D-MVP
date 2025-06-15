@@ -5,7 +5,7 @@ This includes the implementation of D-MVP (**D**istangled **M**ulti-**V**iew Fea
 approach for graph-based MPU learning.
 
 <p align="center">
-  <img width="90%" src="https://github.com/user-attachments/assets/5564f7bb-2787-4d12-9056-bed717ca96b7">
+  <img width="100%" src="https://github.com/user-attachments/assets/349148ed-6c20-42a2-a349-1fa14c4a26cf">
 </p>
 
 ## Abstract
