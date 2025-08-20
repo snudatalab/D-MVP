@@ -72,3 +72,18 @@ Hyperparameters for the main script are summarized as follows:
 - `layers`: number of layers in GCN link predictor.
 - `units`: number of units in GCN link predictor.
 - `iteration`: number of iterations.
+
+
+## Reference
+If you use this code, please cite the following paper.
+```
+@inproceedings{kim2025accurate,
+  title={Accurate link prediction for edge-incomplete graphs via PU learning},
+  author={Kim, Junghun and Park, Ka Hyun and Yoon, Hoyoung and Kang, U},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={17},
+  pages={17877--17885},
+  year={2025}
+}
+```
