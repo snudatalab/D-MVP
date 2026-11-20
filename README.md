@@ -77,13 +77,12 @@ Hyperparameters for the main script are summarized as follows:
 ## Reference
 If you use this code, please cite the following paper.
 ```
-@inproceedings{kim2025accurate,
-  title={Accurate link prediction for edge-incomplete graphs via PU learning},
-  author={Kim, Junghun and Park, Ka Hyun and Yoon, Hoyoung and Kang, U},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={39},
-  number={17},
-  pages={17877--17885},
-  year={2025}
+@inproceedings{conf/kdd/KimYPK25,
+  author    = {Junghun Kim and Hoyoung Yoon and Ka Hyun Park and U Kang},
+  title     = {Accurate Graph-based Multi-Positive Unlabeled Learning via Disentangled Multi-view Feature Propagation},
+  booktitle = {Proceedings of the 31st {ACM} {SIGKDD} Conference on Knowledge Discovery and Data Mining, V.2, {KDD} 2025, Toronto ON, Canada, August 3-7, 2025},
+  pages     = {1149--1159},
+  publisher = {{ACM}},
+  year      = {2025},
 }
 ```
